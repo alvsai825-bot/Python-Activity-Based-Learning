@@ -1,0 +1,32 @@
+==================================================================
+          FINAL EXAMINATION ELIGIBILITY REPORT
+==================================================================
+Roll   Name        Att%  Labs  Int   Fee  Status
+------------------------------------------------------------------
+26C01  Akhil         88    10   32  Paid  ELIGIBLE
+26C02  Bindu         70     9   25  Paid  CONDONATION
+        - attendance 70% - pay condonation fee
+26C03  Chaitanya     80     6   18  Paid  NOT ELIGIBLE
+        - only 6/10 labs completed (need 8)
+26C04  Gayathri      92    10   12   Due  NOT ELIGIBLE
+        - internal marks 12/40 (need 16)
+        - fee not cleared
+26C05  Jaswanth      55     5   10   Due  NOT ELIGIBLE
+        - attendance 55% is below 65% (detained)
+        - only 5/10 labs completed (need 8)
+        - internal marks 10/40 (need 16)
+        - fee not cleared
+26C06  Lahari        76     8   16  Paid  ELIGIBLE
+26C07  Naveen       101     8   30  Paid  INVALID
+        - attendance value 101 is not possible
+------------------------------------------------------------------
+SUMMARY
+Eligible                  : 2
+Eligible with condonation : 1
+Not eligible              : 3
+Invalid records           : 1
+Unmet requirement count   :
+   attendance below 65%   : 1
+   labs incomplete        : 2
+   low internal marks     : 2
+   fee pending            : 2
