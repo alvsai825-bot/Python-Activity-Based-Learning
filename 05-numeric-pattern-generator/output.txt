@@ -1,0 +1,45 @@
+========================================
+     NUMERIC PATTERN GENERATOR
+========================================
+Input size : '5'
+Hollow diamond (n = 5):
+      1
+     2 2
+    3   3
+   4     4
+  5       5
+   4     4
+    3   3
+     2 2
+      1
+Symmetric pyramid (n = 5):
+      1
+     121
+    12321
+   1234321
+  123454321
+
+Input size : '0'
+  INVALID -> size must be between 1 and 9
+
+Input size : 'abc'
+  INVALID -> size must be a whole number
+
+Input size : '12'
+  INVALID -> size must be between 1 and 9
+
+Input size : '-3'
+  INVALID -> size cannot be negative
+
+Input size : '3'
+Hollow diamond (n = 3):
+    1
+   2 2
+  3   3
+   2 2
+    1
+Symmetric pyramid (n = 3):
+    1
+   121
+  12321
+
