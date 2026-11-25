@@ -1,0 +1,40 @@
+======================================================================
+          LIBRARY FINE AND AVAILABILITY REPORT  (today = day 60)
+======================================================================
+No  Book  Member    Issue  Return  Late  Fine  Status
+----------------------------------------------------------------------
+1   B01   Sai           5      15     0     0  returned on time
+2   B01   Ramya        10      30     6    12  returned late
+3   B02   Teja         12      --    34   149  OVERDUE (not returned)
+4   B03   Vamsi        20      31     0     0  returned on time
+5   B04   Pooja        25      --    21    84  OVERDUE (not returned)
+6   B02   Manasa       40      --     6    12  OVERDUE (not returned)
+7   B05   Rahul         1      60    45   200  returned late
+8   B04   Kavya        30      --    16    59  OVERDUE (not returned)
+9   B03   Sai          50      --     0     0  with member
+10  B09   Ajay         15      20     -     -  INVALID RECORD
+----------------------------------------------------------------------
+Total fine collected / due : Rs 516
+Fine by member :
+   Ramya    Rs 12
+   Teja     Rs 149
+   Pooja    Rs 84
+   Manasa   Rs 12
+   Rahul    Rs 200
+   Kavya    Rs 59
+
+OVERDUE BOOKS STILL NOT RETURNED
+   Teja has B02, 34 day(s) late
+   Pooja has B04, 21 day(s) late
+   Manasa has B02, 6 day(s) late
+   Kavya has B04, 16 day(s) late
+
+BOOK AVAILABILITY
+Book  Title              Copies  Out  Available  Check
+B01   Python Basics           3    0          3  ok
+B02   Data Structures         2    2          0  all copies issued
+B03   Engg Maths              2    1          1  ok
+B04   Digital Logic           1    2         -1  MISMATCH - more issued than copies
+B05   C Programming           2    0          2  ok
+
+Invalid records : [10]
