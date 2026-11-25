@@ -1,0 +1,35 @@
+================================================================
+          ATTENDANCE RECOVERY REPORT  (threshold 75%)
+================================================================
+Classes remaining in semester : 40
+
+Roll   Name       Attended  Total  Percent  Status
+----------------------------------------------------------------
+26A01  Anil             56     80   70.00%  SHORTAGE
+26A02  Bhavya           66     80   82.50%  ELIGIBLE
+26A03  Charan           50     80   62.50%  SHORTAGE
+26A04  Deepika          58     80   72.50%  SHORTAGE
+26A05  Eswar            30     80   37.50%  SHORTAGE
+
+RECOVERY PLAN (minimum consecutive classes needed)
+----------------------------------------------------------------
+Anil: current 70.00%
+    Attends every class   : 16 classes
+    Attends 9 out of 10   : 24 classes
+    Attends 4 out of 5    : NOT possible within 40 classes
+Bhavya: already eligible, can miss 8 class(es) and stay above 75%
+Charan: current 62.50%
+    Attends every class   : 40 classes
+    Attends 9 out of 10   : NOT possible within 40 classes
+    Attends 4 out of 5    : NOT possible within 40 classes
+Deepika: current 72.50%
+    Attends every class   : 8 classes
+    Attends 9 out of 10   : 8 classes
+    Attends 4 out of 5    : 24 classes
+Eswar: current 37.50%
+    Attends every class   : NOT possible within 40 classes
+    Attends 9 out of 10   : NOT possible within 40 classes
+    Attends 4 out of 5    : NOT possible within 40 classes
+----------------------------------------------------------------
+Students with shortage      : 4
+Students who cannot recover : Eswar
