@@ -1,0 +1,35 @@
+========================================================================
+                    STUDENT MARKS MATRIX ANALYSIS
+========================================================================
+Student      Maths Physics    Chem  Python English  Total    Avg  Grd
+------------------------------------------------------------------------
+Arjun           78      65      70      92      81    386   77.2    B
+Bhargavi        88      72      69      95      90    414   82.8    B
+Chandu          45      38     30*      67      58    238   47.6    D
+Durga           92      81      77      89      85    424   84.8    B
+Ganesh          56      49      52      71      66    294   58.8    C
+Hema            67     33*      58      84      74    316   63.2    C
+------------------------------------------------------------------------
+Average       71.0    56.3    59.3    83.0    75.7
+Highest         92      81      77      95      90
+Lowest          45      33      30      67      58
+Fails            0       1       1       0       0
+(* = below pass mark 35)
+
+TOP 3 PERFORMERS
+  1. Durga - 424/500
+  2. Bhargavi - 414/500
+  3. Arjun - 386/500
+
+SUBJECT TOPPERS
+  Maths   : Durga (92)
+  Physics : Durga (81)
+  Chem    : Durga (77)
+  Python  : Bhargavi (95)
+  English : Bhargavi (90)
+
+SUBJECTS WITH LOW AVERAGE (below 60)
+  Physics - average 56.3, 1 student(s) failed
+  Chem - average 59.3, 1 student(s) failed
+
+Class average total : 345.3
