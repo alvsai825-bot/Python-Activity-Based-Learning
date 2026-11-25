@@ -1,0 +1,31 @@
+==================================================================
+            OBJECTIVE EXAM - ANSWER SHEET EVALUATION
+==================================================================
+Answer key : BCADABDCCA
+Marking    : +4 correct, -1 wrong, 0 unanswered   Max = 40
+------------------------------------------------------------------
+Roll   Name       Right Wrong Blank  Score       %  Result
+------------------------------------------------------------------
+26B01  Harsha        10     0     0     40  100.0%  PASS
+26B02  Keerthi        7     2     1     26   65.0%  PASS
+26B03  Manoj          5     3     2     17   42.5%  PASS
+26B04  Nikhitha       5     0     5     20   50.0%  PASS
+26B05  Pavan          2     8     0      0    0.0%  FAIL
+26B06  Rupa        INVALID SHEET : expected 10 answers, got 6
+26B07  Sai Teja    INVALID SHEET : invalid option 'X'
+------------------------------------------------------------------
+Answer pattern ( + correct, x wrong, . blank )
+  Harsha    + + + + + + + + + + 
+  Keerthi   + + + + x + + x . + 
+  Manoj     x + x + + + . . + x 
+  Nikhitha  . . . . + + . + + + 
+  Pavan     x x x + x x + x x x 
+------------------------------------------------------------------
+RANK LIST
+  1. Harsha (26B01) - 40/40
+  2. Keerthi (26B02) - 26/40
+  3. Nikhitha (26B04) - 20/40
+  4. Manoj (26B03) - 17/40
+  5. Pavan (26B05) - 0/40
+Class average (valid sheets) : 20.60
+Invalid answer sheets        : 2
