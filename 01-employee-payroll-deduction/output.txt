@@ -1,0 +1,103 @@
+==================================================
+        MONTHLY SALARY STATEMENT
+==================================================
+--------------------------------------------------
+Employee : Ravi Kumar (E101)
+--------------------------------------------------
+EARNINGS                     Amount (Rs)
+Basic Pay                       18000.00
+HRA (20%)                        3600.00
+DA (10%)                         1800.00
+TA                               1500.00
+Overtime (6 hrs)                  900.00
+Incentive                        1000.00
+GROSS SALARY                    26800.00
+DEDUCTIONS               
+Provident Fund                   1800.00
+Professional Tax                  200.00
+Income Tax                         90.00
+TOTAL DEDUCTIONS                 2090.00
+NET SALARY                      24710.00
+--------------------------------------------------
+Employee : Sneha Reddy (E102)
+--------------------------------------------------
+EARNINGS                     Amount (Rs)
+Basic Pay                       32000.00
+HRA (20%)                        6400.00
+DA (10%)                         3200.00
+TA                               1500.00
+Overtime (0 hrs)                    0.00
+Incentive                        2500.00
+GROSS SALARY                    45600.00
+DEDUCTIONS               
+Provident Fund                   1800.00
+Professional Tax                  200.00
+Income Tax                       1030.00
+TOTAL DEDUCTIONS                 3030.00
+NET SALARY                      42570.00
+--------------------------------------------------
+Employee : Kiran Babu (E103)
+--------------------------------------------------
+EARNINGS                     Amount (Rs)
+Basic Pay                       45000.00
+HRA (20%)                        9000.00
+DA (10%)                         4500.00
+TA                               1500.00
+Overtime (12 hrs)                1800.00
+Incentive                        5000.00
+GROSS SALARY                    66800.00
+DEDUCTIONS               
+Provident Fund                   1800.00
+Professional Tax                  200.00
+Income Tax                       2930.00
+TOTAL DEDUCTIONS                 4930.00
+NET SALARY                      61870.00
+--------------------------------------------------
+Employee : Divya Sri (E104)
+--------------------------------------------------
+EARNINGS                     Amount (Rs)
+Basic Pay                       14000.00
+HRA (20%)                        2800.00
+DA (10%)                         1400.00
+TA                               1500.00
+Overtime (20 hrs)                3000.00
+Incentive                           0.00
+GROSS SALARY                    22700.00
+DEDUCTIONS               
+Provident Fund                   1680.00
+Professional Tax                  200.00
+Income Tax                          0.00
+TOTAL DEDUCTIONS                 1880.00
+NET SALARY                      20820.00
+Note: 25 OT hours worked, only 20 are paid
+--------------------------------------------------
+Employee : Mahesh Varma (E105)
+--------------------------------------------------
+EARNINGS                     Amount (Rs)
+Basic Pay                       60000.00
+HRA (20%)                       12000.00
+DA (10%)                         6000.00
+TA                               1500.00
+Overtime (4 hrs)                  600.00
+Incentive                        8000.00
+GROSS SALARY                    88100.00
+DEDUCTIONS               
+Provident Fund                   1800.00
+Professional Tax                  200.00
+Income Tax                       5060.00
+TOTAL DEDUCTIONS                 7060.00
+NET SALARY                      81040.00
+==================================================
+PAYROLL SUMMARY
+==================================================
+ID    Name                Gross   Deduct       Net
+E101  Ravi Kumar       26800.00  2090.00  24710.00
+E102  Sneha Reddy      45600.00  3030.00  42570.00
+E103  Kiran Babu       66800.00  4930.00  61870.00
+E104  Divya Sri        22700.00  1880.00  20820.00
+E105  Mahesh Varma     88100.00  7060.00  81040.00
+--------------------------------------------------
+Number of employees : 5
+Total gross payout  : Rs 250000.00
+Total net payout    : Rs 231010.00
+Highest net salary  : Mahesh Varma (Rs 81040.00)
