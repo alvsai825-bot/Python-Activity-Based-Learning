@@ -1,0 +1,35 @@
+======================================================================
+                 WATER BILL STATEMENT (monthly)
+======================================================================
+House  Owner      KL   Usage  Fixed  Excess    Late     Total
+----------------------------------------------------------------------
+H-101  Rao         8      56     60       0    0.00    116.00
+H-102  Lakshmi    18     158     60       0    0.00    218.00
+H-103  Prasad     34     460     60     100   12.40    632.40
+H-104  Swathi     12      92     60       0    3.04    155.04
+H-105  Naidu      26     288     60       0    0.00    348.00
+H-106  Farooq     45     735     60     100    0.00    895.00
+----------------------------------------------------------------------
+Total water supplied : 143 KL
+Average per house    : 23.83 KL
+Total amount billed  : Rs 2364.44
+
+CONSUMPTION COMPARISON
+----------------------------------------------------------------------
+House    KL  Per person   vs avg  Remark
+H-101     8        2.67   -66.4%  low usage
+H-102    18        4.50   -24.5%  normal
+H-103    34        6.80   +42.7%  EXCESSIVE USAGE
+H-104    12        6.00   -49.7%  normal
+H-105    26        6.50    +9.1%  normal
+H-106    45        7.50   +88.8%  EXCESSIVE USAGE
+
+RANKING BY CONSUMPTION
+  1. H-106 (Farooq) - 45 KL
+  2. H-103 (Prasad) - 34 KL
+  3. H-105 (Naidu) - 26 KL
+  4. H-102 (Lakshmi) - 18 KL
+  5. H-104 (Swathi) - 12 KL
+  6. H-101 (Rao) - 8 KL
+
+Houses with excessive usage : H-103, H-106
