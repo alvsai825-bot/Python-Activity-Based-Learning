@@ -1,0 +1,38 @@
+======================================================================
+            TEXT COMPRESSION USING CHARACTER RUNS
+======================================================================
+Original : 'AAAABBBCCDAA'
+Encoded  : 'A4B3C2D1A2'
+Length   : 12 -> 10   saving = 16.7%   (beneficial)
+Decoded  : matches original
+----------------------------------------------------------------------
+Original : 'WWWWWWWWWWWWBWWWWWWWWWWWWBBB'
+Encoded  : 'W12B1W12B3'
+Length   : 28 -> 10   saving = 64.3%   (beneficial)
+Decoded  : matches original
+----------------------------------------------------------------------
+Original : 'ABCDEF'
+Encoded  : 'A1B1C1D1E1F1'
+Length   : 6 -> 12   saving = -100.0%   (NOT beneficial (encoded is longer))
+Decoded  : matches original
+----------------------------------------------------------------------
+Original : 'aaAA'
+Encoded  : 'a2A2'
+Length   : 4 -> 4   saving = 0.0%   (no gain)
+Decoded  : matches original
+----------------------------------------------------------------------
+Original : 'zzzzzzzzzzzzzzz'
+Encoded  : 'z15'
+Length   : 15 -> 3   saving = 80.0%   (beneficial)
+Decoded  : matches original
+----------------------------------------------------------------------
+Original : ''
+Encoded  : ''
+Length   : 0 -> 0   saving = 0.0%   (empty string - nothing to compress)
+Decoded  : matches original
+----------------------------------------------------------------------
+Original : 'room 101'
+  REJECTED: input contains digits, cannot be encoded
+----------------------------------------------------------------------
+Strings where encoding helped     : 3
+Strings where encoding did not    : 2
