@@ -1,0 +1,28 @@
+==============================================================
+              ATM TRANSACTION SIMULATION
+==============================================================
+Opening balance : Rs 10000
+--------------------------------------------------------------
+No  Type    Amount  Status    Details
+--------------------------------------------------------------
+1   DEP       5000  OK        Bal 15000
+2   WDL       3000  OK        Bal 12000
+3   WDL       2550  REJECTED  amount must be a multiple of 100
+4   WDL      25000  REJECTED  per transaction limit is 20000
+5   DEP      60000  REJECTED  deposit limit is 50000
+6   DEP      30000  OK        Bal 42000
+7   WDL      20000  OK        Bal 22000
+8   X         1000  REJECTED  invalid transaction type
+9   WDL       -500  REJECTED  amount must be positive
+10  WDL      15000  OK        Bal 7000
+11  WDL       6000  REJECTED  daily limit of 40000 crossed
+12  DEP       2000  OK        Bal 9000
+--------------------------------------------------------------
+TRANSACTION SUMMARY
+Total transactions   : 12
+Successful           : 6
+Rejected             : 6
+Total deposited      : Rs 37000
+Total withdrawn      : Rs 38000
+Daily limit left     : Rs 2000
+Closing balance      : Rs 9000
